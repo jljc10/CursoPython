@@ -8,7 +8,7 @@ elif salario > 10000 and salario <=15000:
     tasa = 0.1
 elif salario > 15000 and salario <= 20000:
     tasa = 0.15
-else: tasa = 0.2
+else: tasa = 0.3
 
 impuesto = salario * tasa
 
